@@ -1,3 +1,4 @@
 # hello-world
 hello everyone
-i am studying my graduation.I have learnt html css javasrcitp,asp dotnet,ado dotnet,angular,c#,c 
+I am currently pursuing btech in computer science engineering.
+I've learnt basics in c,c++,java,python,AI,html,css,js.
